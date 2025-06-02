@@ -2,7 +2,10 @@ RENCANA KONTEN
 - JAVASCRIPT
   #ES6
   # Framework javascript
+    ^ vue
 - FUNDAMENTAL DATA STRUCTURE
 - PHP FRAMEWORKS
+  ^ laravel
 - INTERVIEW
 - VLOG
+- python
