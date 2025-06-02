@@ -3,6 +3,7 @@ RENCANA KONTEN
   #ES6
   # Framework javascript
     ^ vue
+    ^ react
 - FUNDAMENTAL DATA STRUCTURE
 - PHP FRAMEWORKS
   ^ laravel
